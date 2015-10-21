@@ -419,9 +419,7 @@ padding:20px 10px;
 font-size: 58px;
 color: #5E5E5E;
 }
-.tileBox{
-	left:200px;
-	}
+
 .tileBox p{
     background-color: #f0f0f0;
 font-size: 15px;
@@ -430,18 +428,7 @@ padding: 20px;
 margin: 0px;
 
 }
-.tileBox1{
-	left:250px;
-	}
-	
-.tileBox1 p{
-    background-color: #f0f0f0;
-font-size: 15px;
-color: #777777;
-padding: 20px;
-margin: 0px;
 
-}
 /*parlex*/
 .bg-parlex {
 padding-top: 0px;
